@@ -6,10 +6,10 @@
     <img src="media/logo.gif" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">DuckOS v6</h3>
+  <h3 align="center">DuckOS++ v6</h3>
 
   <p align="center">
-    A purely static web-based operating system designed to combat internet censorship.
+    An attempt to make an online version of a purely static web-based operating system designed to combat internet censorship.
     <br />
     <a href="https://github.com/GikitSRC/DuckOS/wiki"><strong><< Documentation for developers >></strong></a>
     <br />
